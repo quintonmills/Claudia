@@ -85,6 +85,19 @@ MedGPT utilizes the following technologies:
 -   **Firebase**: A backend-as-a-service platform for building web and mobile apps.
 -   **GPT-3.5**: A state-of-the-art language model developed by OpenAI.
 
-## Contributing
+##Usage Guidelines
+We welcome contributions to this open source project! Follow these guidelines to ensure your contributions are merged smoothly:
 
-Contributions to Med-GPT are welcome! If you find any issues or want to add new features, please open an issue or submit a pull request
+**Submitting Code**
+Fork the repo and create a new branch for each feature/bugfix. Avoid working directly on main.
+Follow the existing code style and conventions. Keep code changes small and targeted.
+Add/update tests and documentation with each code change. Tests must pass before your pull request is merged.
+Use clear commit messages explaining the change. Reference issues/bugs where applicable.
+Avoid unnecessary whitespace changes - make sure your diff sticks to the changes that matter.
+Add your name and email to the CONTRIBUTORS.md file in your first pull request.
+**Reporting Issues**
+Search existing issues before opening a new one - avoid duplicates.
+Create a clear, specific title and provide detailed description including steps to reproduce the bug.
+Include the earliest version the issue appears in and which operating system you are running.
+Attach error logs, screenshots, videos, or anything that helps explain the issue.
+Use appropriate labels and milestones to categorize the issue.
